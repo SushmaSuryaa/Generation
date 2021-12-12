@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Generation Institution</title>
+	 <!-- CSS only -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>-->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <style>
+  	html {overflow-x: hidden;}
+  	body{
+  		background-color: #fff;
+  	}
+  </style>
+</head>
+<body>
+	<!--container open-->
+	<div class="container-fluid">
+        <!--1st row-->
+		<div class="row bg-primary">
+			<div class="col-4" style="padding-top:20px">
+				<p><img src="C:\Users\dell\Pictures\Address.png" height="35px" width="35px" style="border-radius:50%"> Address: <a class="text-light text-center" href="#"> Pune, Maharashtra 411041</a> </p>
+			</div>
+			<div class="col-sm-4"style="padding-top:20px">
+				<p><img src="C:\Users\dell\Pictures\email.jpg"height="35px" width="35px" style="border-radius:50%">  Email:  <a class="text-light text-center" href="#">contact@generation.edu.in</a></p>
+			</div>
+			<div class="col-sm-4"style="padding-top:20px">
+				<p><img src="C:\Users\dell\Pictures\phone.png"height="35px" width="35px" style="border-radius:50%">  Phone:  <a class="text-light text-center" href="#">3200024342</a></p>
+			</div>
+		</div>
+	    <!--2nd row -->
+	    <div class="row" style=" background-color: #f0f4ff; height: 120px;">
+         <div class="col-sm-3" style="padding-left: 60px; padding-top: 15px;">
+              <img src="C:\Users\dell\Pictures\logo.png" height="100px" width="100px" style="border-radius:50%;">
+            
+        </div>
+        <div class="col-sm-9" style="padding-top: 30px;">
+         <ul class="nav justify-content-center">
+                 <li class="nav-item" >
+                   <a class="nav-link active" href="#" style="color: #3e3238; font-weight:700; margin-right: 40px;">Home</a>
+                 </li>
+                 <li class="nav-item" >
+                   <a class="nav-link active" href="about.html" style="color: #3e3238; font-weight:700;margin-right: 40px;">About Us</a>
+                 </li>
+                 <li class="nav-item" >
+                   <a class="nav-link active" href="contact.html" style="color: #3e3238; font-weight:700;">Contact Us</a>
+                 </li>
+                </ul>
+            </div>
+         </div>
+      </div>
+      
+    	<!--3rd row-->
+    	<div class="row">
+      		<div class="col">
+
+            	<div id="sliders" class="carousel slide" data-ride="carousel">
+                
+               
+         		 <!-- Inner Carousel div -->
+                	<div class="carousel-inner" style="height:500px;">
+
+
+
+            		<!-- First slide div -->
+                    	<div class="carousel-item active">
+
+                       		<img src="C:\Users\dell\Pictures\photo8.jpg" class="d-block w-100" alt="">
+                    	</div>
+            			<!-- End of first slide -->
+            			<!-- Second slide div -->
+                    	<div class="carousel-item">
+                      		<img src="C:\Users\dell\Pictures\photo3.jpg" class="d-block w-100" alt="">
+                    	</div>
+           				<!-- End of second slide -->
+            			<!-- Third slide div -->
+                    	<div class="carousel-item">
+                      		<img src="C:\Users\dell\Pictures\photo7.jpg" class="d-block w-100" alt="">
+                    	</div>
+           	 			<!-- End of third slide -->
+            			<!-- Fourth slide div -->
+                    	<div class="carousel-item">
+                      		<img src="C:\Users\dell\Pictures\photo1.jpg" class="d-block w-100" alt="">
+                    	</div>
+            			<!-- End of fourth slide -->
+            			<!-- fifth slide div -->
+                    	<div class="carousel-item">
+                      		<img src="C:\Users\dell\Pictures\photo4.jpg" class="d-block w-100" alt="">
+                    	</div>
+                      <div class="carousel-caption">
+                         <h1 class="text-dark  bg-light">GENERATION  INSTITUTION</h1>
+                        <p> Get ready for a dream career! <br>Select your course.</p>
+                         </div>
+            			<!-- End of fifth slide -->
+					</div>
+          
+          			<!-- End of inner carousel -->
+          			<!-- Add code for controls below: -->
+                	<a class="carousel-control-prev" href="#sliders" role="button" data-slide="prev">
+                  		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            		</a>
+                	<a class="carousel-control-next" href="#sliders" role="button" data-slide="next">
+                    	<span class="carousel-control-next-icon" aria-hidden="true"></span>
+            		</a>
+            	</div>      
+            </div>
+        </div>
+    	<!--4th row-->
+    	<div class="row no-gutters" style="padding-top: 80px;">
+    		<div class="col-sm-3">
+    			<div style="background-color:#c20000; border-radius: 20px; margin-left: 10px;" ><img src="C:\Users\dell\Pictures\teacher.png" width="70px" height="70px" style="margin-left: 130px;border-radius: 50%;" />
+                    <div style="margin-top: 16px;padding-left: 16px;padding-right: 16px; padding-bottom: 16px; height: 146px;">
+                    	<h5 style="text-align: center;color: white;">Certified Lecturers</h5>
+                      <p class="text-light text-center">With good degree pass, for example  completed a postgraduate master's or PhD qualification with first class.</p>
+                    </div>
+              	</div>
+            </div>
+    		<div class="col-sm-3">
+    		    <div style="background-color:#009e0d;border-radius: 20px; margin-left: 10px;" ><img src="C:\Users\dell\Pictures\student.png" width="70px" height="70px" style="margin-left: 130px;border-radius: 50%;" />
+                    <div style="margin-top: 16px;padding-left: 16px; padding-right: 16px;padding-bottom: 16px; height: 146px;">
+                     	<h5 style="text-align: center;color: white;">Special Education</h5>  
+                      <p class="text-light text-center">Data Science.Big Data Engineering.Data Analyst.Big Data Analysis.Web Designing.VFX Training And Character Animation Degree.</p>  
+                   	</div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+    			<div style="background-color:#4000f0;border-radius: 20px;margin-left: 10px;" ><img src="C:\Users\dell\Pictures\library.png" width="70px" height="70px" style="margin-left: 130px;border-radius: 50%;" />
+                    <div style="margin-top: 16px;padding-left: 16px;padding-right: 16px; padding-bottom: 16px; height: 146px;">
+                       	<h5 style="text-align: center;color: white;">Book & Library</h5>
+                                   <p class="text-light text-center">In the age of e-books culture, with an aim to promote the habit of reading among people, eight students have started a free 'open book library' in the ...</p>           
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+    			<div style="background-color:#f0b800; border-radius: 20px;margin:0 10px;" ><img src="C:\Users\dell\Pictures\certificate.png" width="70px" height="70px" style="margin-left: 130px;border-radius: 50%;" />
+                	<div style="margin-top: 16px;padding-left: 16px;padding-right: 16px; padding-bottom: 16px; height: 146px;">
+                    	<h5 style="text-align: center;color: white;">Certification</h5>
+                                            <p class="text-light text-center">Even the all-powerful pointing has no control about the blind texts it is an almost unothographic.</p>
+                	</div>
+            	</div>
+        	</div>
+        </div>
+        <!--5th row-->
+        <div class="row" style="background:url(C:\Users\dell\Pictures\footer.jpg);height:300px; margin-top: 80px">
+        	<div class="col" style="display: block;background-color: black; width: 100%; height: 300px; opacity: 0.9;">
+        		
+        	</div>
+          
+        </div>
+</body>
+</html>
